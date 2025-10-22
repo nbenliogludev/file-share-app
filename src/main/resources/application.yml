@@ -1,0 +1,8 @@
+server:
+  port: 7000
+filesvc:
+  uploadDir: uploads
+  dataDir: data
+  retentionDays: 30
+  apiKey: null
+  publicBaseUrl: "http://localhost:7000"

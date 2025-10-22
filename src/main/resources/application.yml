@@ -1,8 +1,8 @@
 server:
-  port: 7000
-filesvc:
+  port: 8080
+fileShareApp:
   uploadDir: uploads
   dataDir: data
   retentionDays: 30
   apiKey: null
-  publicBaseUrl: "http://localhost:7000"
+  publicBaseUrl: "http://localhost:8080"

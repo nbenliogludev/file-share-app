@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38e9e6ed-b8dd-45c0-9c31-49fddf9e92ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nbenliogludev/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nbenliogludev/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nbenliogludev/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nbenliogludev/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nbenliogludev/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nbenliogludev/config/ConfigLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nbenliogludev/config/ConfigLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nbenliogludev/web/WebServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nbenliogludev/web/WebServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +26,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feat/config-loader-yml",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
